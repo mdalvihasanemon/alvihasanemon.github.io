@@ -15,6 +15,6 @@ Responsive dark portfolio built with HTML, CSS and JavaScript. No build tools re
 4. Upload `index.html`, `style.css`, `script.js`, `README.md` and the `assets` folder if it contains your photo. Upload them to the repository root, not inside another folder.
 5. Confirm replacement of files with the same names, then click **Commit changes**.
 6. Under **Settings → Pages**, source should be `Deploy from a branch`, branch `main`, folder `/(root)`.
-7. Wait a few minutes and refresh https://mdalvihasanemon.github.io/ with Ctrl+F5.
+7. Wait a few minutes and refresh https://alvihasanemon.github.io/ with Ctrl+F5.
 
 Before publishing, verify your email and all project links. The contact form opens the visitor's email app; it does not send messages to a database. Keep private details and passwords out of public files.
